@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands jubliee: or, Her happy return from captivity: in a sermon preached at St. Botolphs Aldersgate, London. Since presented toot the Kings most Excellent Majesty, King Charles II. By John Douch Rector of Stalbridge in the county of Dorset.</title>
+            <author>Douch, John, b. 1622 or 3.</author>
+         </titleStmt>
+         <extent>Approx. 69 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81645</idno><idno type="EEBO-CITATION">99867868</idno>
+  <idno type="VID">168905</idno>
+  <idno type="EEBO-PROQUEST">2248501396</idno>
+  
+            <idno type="STC">Wing D1958A</idno>
+            <idno type="STC">Thomason E1033_1</idno>
+            <idno type="STC">ESTC R208952</idno>
+            <idno type="PROQUEST">99867868</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867868e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81645)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168905)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 153:E1033[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands jubliee: or, Her happy return from captivity: in a sermon preached at St. Botolphs Aldersgate, London. Since presented toot the Kings most Excellent Majesty, King Charles II. By John Douch Rector of Stalbridge in the county of Dorset.</title>
+                  <author>Douch, John, b. 1622 or 3.</author>
+               </titleStmt>
+               <extent>[2], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R. Royston at the Angel in Ivy-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="geographic_name">Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168905:1"/>
+            <p>Englands Jubilee: OR, Her happy Return from Captivity: IN A SERMON, PREACHED At St. <hi>Botolphs Aldersgate, LONDON.</hi>
+            </p>
+            <p>Since presented to the <hi>Kings</hi> most Excellent Majesty, King Charles II.</p>
+            <p>By <hi>John Douch</hi> Rector of <hi>Stalbridge</hi> in the County of <hi>DORSET.</hi>
+            </p>
+            <q>
+               <bibl>ISAIAH XLIX. 23.</bibl>
+               <p>Kings shall be thy nursing Fathers, and Queens thy nursing Mothers.</p>
+            </q>
+            <q>
+               <bibl>Cornelius Tac. (Annal. lib. 1.)</bibl>
+               <p>Ea est conditio imperandi, ut no<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> alit<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Ratio constat, quam si uni reddatur.—Noa aliud Discordantis Patriae remedium est, quam ut ab uno regeretur: Ut unum est Corpus Resp. ita unius Animo regenda est.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Royston</hi> at the <hi>Angel</hi> in <hi>Ivy-lan',</hi> 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:168905:2"/>
+            <pb facs="tcp:168905:2"/>
+            <head>To the most Mighty, High-born, Vertuous MONARCH, (our Dear and Dread Soveraign Lord) CHARLES II, By the good Providence of God King of <hi>Great Britain, France</hi> and <hi>Ireland, Defender of the Faith.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His <hi>Sermon,</hi> which is now presented to your Majesties <hi>Eye,</hi> was intended for the <hi>Ear;</hi> and now to the publick view of the whole Kingdom.</p>
+            <p>But I hope it will the better take among my Fellow-subjects, because 'tis graced with your Majesties <hi>Name</hi> and <hi>Patronage.</hi> Though the Sermon be <hi>plain</hi> (com<g ref="char:EOLhyphen"/>ing from the meanest of your Subjects) yet 'tis <hi>Orthodox;</hi> for all to read their Duty to <hi>God,</hi> and Allegiance to their <hi>King,</hi> which was a thing (for many years, in three Kingdoms) quite forgotten.</p>
+            <p>And for this grand Impiety, and stubborn Disobedience, having our hearts divided, <hi>England</hi> as well as <hi>Israel</hi> had the same Complaint; <hi>We have no King, because we feared not the Lord.</hi> Hos. 10. 2, 3.</p>
+            <p>I know, many will carp, and say, a fitter <hi>Text</hi> might have been chosen, then to apply to your Majesty and the present Affairs, King <hi>Saul,</hi> a bad Prince.</p>
+            <p>To this I answer, 'Tis true, Flatterers are more troubled how to please, then to speak truth, or to give a timely
+<pb facs="tcp:168905:3"/> Caution, as to beware of the iudgement of God. The <hi>Lord</hi> made <hi>Saul</hi> good, and is <hi>willing that all men should be saved:</hi> But if <hi>Saul</hi> and other Princes will abuse the Mercy of God, and become wicked; they must not blame God, nor be angry with the Scriptures, but thank themselves. <hi>Perditio tua e<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Te.</hi>—And therefore in him the Lord would have all succeeding Kings to read their Destiny: Though they sit in high places, yet they are obnoxious to danger, tumults, if not to the losing of their Kingdoms, Life and all.</p>
+            <p>But now, after this sad confusion, seeing the Lord is so pleased to give us a King again, and that in your saCRed Majesty,</p>
+            <p n="1">1. Let God have the glory and praise, that your Maje<g ref="char:EOLhyphen"/>sties most saCRed Life (by the Providence of Almighty God) hath hithetto been preserved, to the terrour and astonish<g ref="char:EOLhyphen"/>ment of your Enemies, and comfort of your Friends and faithfull Subjects. Your Majesty may truely say (with <hi>Da<g ref="char:EOLhyphen"/>vid) I waited patiently for the Lord, and he enclined unto me, and heard my crie: He brought me up also out of an horrible Pit, out of the miry clay, and set my feet upon a Rock,</hi> Psal. 40. 1, 2. And the reason, why this good King and your Majesty, had so much the favour of God, tells you, <hi>v. 4. Blessed is the man that maketh the Lord his trust.</hi>
+            </p>
+            <p>When your Majesties just Title of Inheritance unto the Imperial Crown of this Realm, was so long Usurped by blood-thirsty men, and made themselves so strong upon Sea and Land, that most people (looking more on the Arm of man, then of God) were so incredulous, as to say, We shall never see King more in <hi>England:</hi> Yet, the Lord of Hosts, our mercifull Father, in whom your Majesty hath alwayes trusted, and found help, and deliverance out of all your Troubles, even from your Youth hitherto, (to a wonder) hath mightily defended your Majesty, made your Enemies become Friends, and without shedding of blood brought you home in Peace agair. Therefore we have just cause to sing with the Prophet; <hi>By his own right hand, and with his
+<pb facs="tcp:168905:3"/> holy Arm, hath he gotten himself the Victory, and all the ends of the World have seen the salvation of our God.</hi>
+            </p>
+            <p>In which, with joy and comfort, we may be bold to say, (with the Poet <hi>Claudian)</hi>
+            </p>
+            <q>
+               <l>O nimium dilecte Deo, tibi militat aether,</l>
+               <l>Et conjurati veniunt ad classica venti.</l>
+            </q>
+            <p>And as we are ever bound to bless God for many mercies towards your Majesty, so we are bound to bless God for you many wayes,</p>
+            <p n="1">1. For your <hi>Constancy in Religion,</hi> that 'twas not the loss of three glorious Kingdoms, could draw you from it, though driven to <hi>sing the Lords Song in a strange Land.</hi>
+            </p>
+            <p>And now your Majesty do see the reward of your con<g ref="char:EOLhyphen"/>stancy: you, who did stick close to God, the same God did never forsake you; according to the saying of your <hi>Prophetical</hi> Father of <hi>Blessed</hi> memory, who told you, in his Book, <hi>That piety will make you prosperous</hi> And therefore he had rather you should be <hi>Charles Le-Bon,</hi> than <hi>Le-Grand: Good</hi> than <hi>Great:</hi> A good lesson for your Majesties subjects, who, for ought I see, do more strive to be <hi>Great,</hi> then <hi>Good.</hi>
+            </p>
+            <p>And what was once said of <hi>Carolus magnus,</hi> let the same still be said of you, <hi>Carolus plus cum Deo, quàm cum homi<g ref="char:EOLhyphen"/>nibus loquitur;</hi> That he spake more with God, then with Men.</p>
+            <p n="2">2. We thank your <hi>Majesty,</hi> To see our <hi>God</hi> again served in the <hi>Beauty</hi> of <hi>Holinesse;</hi> That our ravished Souls might once more ascend in <hi>Prayers</hi> and <hi>Hymns,</hi> or <hi>Hallelujahs,</hi> in one of the old Songs of <hi>Sion.</hi>
+            </p>
+            <p n="3">3. That your Majesty is resolved to settle the <hi>Church</hi> upon its <hi>old Basis,</hi> without which, God knowes, we shall have a sorry one. And this must needs be acceptable to <hi>Almighty God,</hi> That He, who hath done so much for your <hi>Majesty,</hi> that you do something for Him. <hi>King David,</hi> for the Lords favour towards him, would build a Temple to
+<pb facs="tcp:168905:4"/> the Lord. So the people of <hi>Judah</hi> and <hi>Benjamin</hi> after their Captivity, did set forward the work of the <hi>House</hi> of the <hi>Lord,</hi> Ezr. 3. 8. King <hi>James</hi> (your Grandfather) coming out of <hi>Scotland</hi> into <hi>England,</hi> being a wise and learned Prince; How wisely did he decline that Government, knowing it to be pernicious both to Church and State? and became a true Patronage to the Church of <hi>England,</hi> in setting up <hi>Episcopacy,</hi> and ever after 'twas his Motto, and we found it true, (by sad experience) <hi>No Bishop, no King.</hi>
+            </p>
+            <p>It was the eminent care of your most <hi>Royall Father,</hi> how to preserve the poor persecuted Church; for which he dy'd a <hi>Martyr:</hi> Would he have <hi>sacrificed</hi> the <hi>Church,</hi> he had not been the <hi>Churches Sacrifice.</hi>
+            </p>
+            <p>Now coming from such <hi>Noble Progenitors,</hi> the Lord give your Majesty the same Christian courage to <hi>build the Walls of Jerusalem:</hi> For ever since your Royal <hi>Person</hi> was ba<g ref="char:EOLhyphen"/>nished from the Church, she was like a <hi>Ship</hi> floating on the Sea, without a <hi>Pylot,</hi> obnoxious to every <hi>storm,</hi> and sacri<g ref="char:EOLhyphen"/>legious <hi>Pirate; Every man did what seemed good in his own eyes.</hi> We have seen such a time, when 'twas lawfull for every one to choose his own Religion, or be of his own Opinion: Such a time, when every ignorant Votary, was suffered to creep to his own Image, or make his own Idol; and all was, because <hi>there was no King in Israel.</hi> Thus, we have been at <hi>Blinde-mans-buffe.</hi> And therefore, I beseech your Majesty, speedily to send us an <hi>Overseer</hi> in our Church; for we have so many now, that we are <hi>over-look'd.</hi>
+               <note n="*" place="margin">And I observe, never more Witches in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> since <hi>Monarchy</hi> and <hi>Hierarchy</hi> lay in the dust.</note> And doubtless (saith Dr. <hi>Gauden)</hi> a Church may better in the worst of times, want any thing then <hi>good Bishops,</hi> and Order<g ref="char:EOLhyphen"/>ly <hi>Ministers;</hi> for these in the midst of Persecution made Religion good against all the powers of Men and Devils. And therefore, till the Church of <hi>England</hi> be setled upon its <hi>old Basis,</hi> and we all meet in the same Center of Religion, and can all say <hi>Amen</hi> to the same <hi>Prayers</hi> and <hi>Prayses</hi> of God again; we may (saith that orthodox, pious, learned
+<pb facs="tcp:168905:4"/> Doctor) write <hi>Ichabod</hi> on all foreheads: <hi>The glory is de<g ref="char:EOLhyphen"/>parted from our Israel.</hi>
+            </p>
+            <p>And certainly, let no man expect that <hi>Kingdom</hi> to prosper, till <hi>Gods House</hi> prosper. Let no man expect a Blessing on the Land, as long as <hi>Gods Curse</hi> lyes upon it, <hi>Mal.</hi> 3. 9. Let no man expect a <hi>Quietus est,</hi> for the enjoying of his own, as long as <hi>Gods House lyes waste,</hi> and he shut out of his, <hi>Hag.</hi> 1. 9.</p>
+            <p>As the <hi>Arke</hi> when it was harboured by <hi>Obed-Edom,</hi> brought a blessing upon him and his Houshold, 2 Sam. 6. 11, 12. so certainly, the Church brings a blessing to him that defends it; but when 'twas abused, Thousands were slain for it, 1 <hi>Sam.</hi> 5. And those that are despisers of that <hi>Apostolical Government,</hi> and for no other reason, Because they themselves can be Bishops no longer, who have Usurped that <hi>Sacred Order</hi> of <hi>Ordination,</hi> (making themselves no less then <hi>Schismaticks)</hi> in breaking the <hi>Articles</hi> of the <hi>Church</hi> of <hi>England,</hi> to which they themselves did subscribe: Let them in the fear of God, look back, and tell me, what Church under the Cope of Heaven, was more glorious, then the Church of <hi>England</hi> was?</p>
+            <p>What Decency? what serving our God with one heart, and one minde? they cannot be ignorant.</p>
+            <p>But since that Blessed Government was destroyed, what <hi>Sacriledge?</hi> what Schisme, Faction? what Robbing of the Church, and sacking of the Temple of God? they all know.</p>
+            <p>Whereas before, they were <hi>Houses for Prayer,</hi> and for the true Service of God, they since were made Stables, and <hi>Dens for Thieves.</hi>
+            </p>
+            <p>So then, <hi>Monarchy</hi> and <hi>Hierarchy</hi> must goe together; they are inseparable, (like <hi>Hippocrates</hi> twins) they <hi>laugh</hi> to<g ref="char:EOLhyphen"/>gether, they <hi>weep</hi> together. And indeed, experience hath taught it, on the well setling of the <hi>Church,</hi> dependeth much the safety of the <hi>Prince.</hi> Those then <hi>whom God hath joyned to<g ref="char:EOLhyphen"/>gether, let no man put asunder:</hi> But rather let every one be affected with <hi>Davids</hi> zeal, <hi>Psal. 122. 8, 9. For my Brethren and Companions sake, I will now say, Peace be within thee; because of the House of the Lord our God, I will seek thy good.</hi>
+            </p>
+            <pb facs="tcp:168905:5"/>
+            <p>St. <hi>Paul</hi> layes open a Catalogue of his <hi>Afflictions</hi> and miseries, 2 Cor. 11. where the good man tells of all his sufferings, (both upon Sea and Land) but in the 28. <hi>v.</hi> he tells of one affliction, which did trouble him more then all the rest; <hi>Besides those things that are without, that which cometh upon me daily, the care of all the Churches.</hi> And sure I am, this care (with every Christian soul) should go beyond all cares, we should, nay, we shall never be at peace, till we see Gods Church in a flourishing state and condition.</p>
+            <p>Great Sir, pardon my boldness, 'tis my zeal (not self-interest) that makes me cast my <hi>mite</hi> into the <hi>offering</hi> of God. I now forbear, and indeed, 'tis great <hi>folly,</hi> (seeing your <hi>sacred Majesty</hi> is so forward to promote the <hi>glory</hi> of God) to use any Arguments to incite you to it. And 'tis great <hi>presumpti<g ref="char:EOLhyphen"/>on</hi> in any, to study to direct your Majesty, how to bring the Church to the <hi>Haven of Peace;</hi> seeing your Royal Father of blessed memory, hath left such a never to be parallel'd Book, for Prince, Parliament, Council and People, how to steer their course: And sure I am, next to the Sacred Bible 'tis the best of Books.</p>
+            <p>The King of Kings bless, direct and save your Majesty, so after many years enjoying your <hi>Crown</hi> upon <hi>Earth,</hi> you may be <hi>Crowned</hi> with everlasting Glory in <hi>Heaven:</hi> for which none shall more earnestly pray, then</p>
+            <closer>
+               <signed>Your MAJESTIES<lb/> Most humble Servant,<lb/> And obedient Subject,<lb/>
+                  <hi>John Douch.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:168905:5"/>
+            <head>Englands Jubilee: OR, Her happy return from Captivity.</head>
+            <epigraph>
+               <bibl>1 SAM. X. 24.</bibl>
+               <q>And <hi>Samuel</hi> said to all the people, See ye him whom the Lord hath chosen, That there is none like him among all the people? And all the people shouted and said, God save the King.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His year is <hi>Englands Jubilee,</hi> and the joy<g ref="char:EOLhyphen"/>ful'st year that came to <hi>England</hi> these many years: The time is <hi>a Time of Re<g ref="char:EOLhyphen"/>joycing,</hi> and the Text is <hi>a joyful Text,</hi> well fitted for the time; And the messenger (the Prophet <hi>Samuel) a joyful messenger,</hi> (as I trust in God I am to you this day) in putting you in minde <hi>of the great and wonderful mercy of God in giving us
+<pb n="2" facs="tcp:168905:6"/> a King,</hi> who is <hi>worth the beholding:</hi> And God grant <hi>we may long see Him.</hi>
+            </p>
+            <p>That the voyce of joy and gladness may ever be heard to the ear, <hi>and the Royal Crown</hi> (of the <hi>seed Royal in England)</hi> may ever be seen to the eye: That neither the one may be satisfied with seeing, nor the other hearing, <hi>(God save the King.)</hi>
+            </p>
+            <p>The words doe beg your attention, the <hi>Oath of Allegiance</hi> at least, being a Proclamation which comes from the highest Monarch, <hi>God himself.</hi>
+            </p>
+            <p>This Chapter will tell thee, that the people of <hi>Israel</hi> were as much troubled <hi>(as England hath late<g ref="char:EOLhyphen"/>ly been)</hi> for <hi>want of a King over them:</hi> And the ra<g ref="char:EOLhyphen"/>ther because when there was no King in <hi>Israel,</hi> e<g ref="char:EOLhyphen"/>very man did what seemed good in his own eyes. After much a doe the Lord sent <hi>them a King,</hi> and that was <hi>Saul,</hi> the first King that ever the people of God had; and he is Anointed by <hi>Samuel,</hi> and that by Gods appointment <hi>v.</hi> 1. Anointed, first to signi<g ref="char:EOLhyphen"/>fie the collation of Gifts and Graces (which were required to fit and qualifie the Person Anointed) by the spirit, to that place which the Lord hath cal<g ref="char:EOLhyphen"/>led him. And this befell <hi>Saul,</hi> as you shall hear anon.</p>
+            <p>And secondly, That God hath set him apart, and advanc'd him above others in Authority and E<g ref="char:EOLhyphen"/>minency, in which Oyle hath some resemblance, which will not mix it self with waterish liquors; but will separate from them, and float above them.</p>
+            <p>And this ancient Ceremony, in pouring Oyle upon <hi>the Heads of Kings at their Coronation day,</hi> doth not reach to all Kings; for such as immediately
+<pb n="3" facs="tcp:168905:6"/> succeeded their Parents, as heirs apparent to the Crown (as <hi>our Kings)</hi> their Title being no wayes questionable, sate upon the Royal Throne without any such Anointing: But such as were immediate<g ref="char:EOLhyphen"/>ly chosen of God, as <hi>Saul</hi> here was.</p>
+            <p>Now <hi>Saul</hi> seeing the weight of the Crown <hi>(splendidam at gravem)</hi> was willing to decline the Government as an heavy burthen, <hi>v.</hi> 22. Who had rather lye hid in the stuff among the Tents: e<g ref="char:EOLhyphen"/>specially in such distracted times, wherein the Com<g ref="char:EOLhyphen"/>monwealth was much divided and unsetled.</p>
+            <p>Yet in the second verse, and in the verses follow<g ref="char:EOLhyphen"/>ing, there you may see, how our good Prophet did rouse up the spirit of <hi>Saul</hi> (by a Prophetical spirit) certain signes which should occur in his return: That when he saw them, he should not doubt of the <hi>Crown,</hi> but strengthen his Faith, that the things foretold concerning his <hi>Kingdom</hi> should come to pass.</p>
+            <p>And that he may, with boldness and courage venture upon his <hi>Kingdom,</hi> notwithstanding all difficulties that he should meet with, before he came to the <hi>Crown: Samuel the Lords Prophet</hi> was sent him, to tell him, <hi>That the Lord was all-sufficient to save and protect him from all dangers whatever.</hi> And that he may be the more cheerful, tels him, <hi>v. 6. The Spirit of the Lord will come upon thee, i. e.</hi> The spirit of Wisedom, Magnanimity, Courage and other qualifications befitting a <hi>King,</hi> to Rule his <hi>Kingdom</hi> in Peace and War.</p>
+            <p>Yet notwithstanding all this (saith my commen<g ref="char:EOLhyphen"/>tator) he was modest, and would not ambitiously
+<pb n="4" facs="tcp:168905:7"/> affect the Kingdom, nor use indirect means to a<g ref="char:EOLhyphen"/>spire to the <hi>Crown,</hi> but was called thereunto by the providence of <hi>God.</hi>
+            </p>
+            <p>Now <hi>v.</hi> 23. seeing such a goodly Person as <hi>Saul</hi> was, the people ran and fetch't him forth to the Assembly. And <hi>Samuel</hi> said (in the words of my Text) <hi>See yee him whom the Lord hath chosen, That there is none like him among all the People? And all the People shouted, and said, God save the King; Vi<g ref="char:EOLhyphen"/>vat Rex, Let the King live, i. e.</hi> Prosper and flou<g ref="char:EOLhyphen"/>rish with long life and happy Government: Let him live: I say, <hi>O King live for ever,</hi> Dan. 3. 9.</p>
+            <p>So much for the coherence of the Text.</p>
+            <p>In the words you may observe,</p>
+            <p n="1">1. A Proclamation, and that from the good Pro<g ref="char:EOLhyphen"/>phet <hi>Samuel, And Samuel said to all the people.</hi>
+            </p>
+            <p n="2">2. A gratious aspect, and that to a double object.</p>
+            <list>
+               <item>1. To him (by whom Kings reigne) who is King of Kings, and Lord of Lords: <hi>The Lord hath chosen.</hi>
+               </item>
+               <item>2. Object, To the Lords Anointed, his vicege<g ref="char:EOLhyphen"/>rent, <hi>See yee him.</hi>
+               </item>
+            </list>
+            <p n="3">3. The Excellency of the Person, one fitted in all things to be King, <hi>That there is none like him among all the People.</hi>
+            </p>
+            <p n="4">4. An Acclamation for the great favour of God, in giving them a King, <hi>And all the People shouted.</hi>
+            </p>
+            <p n="5">5. And lastly, A Prayer, or Homage, which lyes at the foot of all lawful Proclamations, which all Subjects ought to use, and say, <hi>God save the King.</hi>
+            </p>
+            <p>By the way you may take this observation: Tis
+<pb n="5" facs="tcp:168905:7"/> a great mercy of God to a sinful Land, and great rejoycing to all true Christians (after so much Re<g ref="char:EOLhyphen"/>bellion, Murther and confusion) <hi>That the Lord is pleased to give us a King.</hi>
+            </p>
+            <p>One place you may see, for the clear demonstra<g ref="char:EOLhyphen"/>tion of this point, and doe very much resemble, <hi>his Majesties condition,</hi> 2 Kings 11. King <hi>Jehoash,</hi> who was saved by a woman (as our gratious Soveraign was) his Aunt <hi>Jehosheba</hi> did hide him in the house of God six years, from <hi>Athaliahs</hi> bloody <hi>massacre.</hi> At last, they would be under an usurper no longer; but would have the <hi>true Heire</hi> to be <hi>King,</hi> did joyn with the Captains and Commanders, and brought forth the <hi>Kings Son,</hi> and put the Crown upon him, and they made him King, and clapt their hands and said, <hi>God save the King,</hi> 2 Kings 11. 12.</p>
+            <p>If these good people did rejoyce, <hi>that one of the seed Royal was sav'd alive,</hi> the <hi>Kings Son,</hi> from his bloody persecutors, and were glad they had a King, though but seven years old; Oh much more cause have we (in <hi>England)</hi> to rejoyce, that <hi>three of the Royal stock are alive, and the Kings Son is of ripe years, every way fitted for the Crown;</hi> who lay hid more then six years (twelve at the least) from <hi>A<g ref="char:EOLhyphen"/>thaliahs</hi> bloody Massacre.</p>
+            <p>When our Religion and Defender of our Faith was kept from us, and persecuted (so many years) Now by the mercy of God we enjoy both.</p>
+            <p>When three dying Kingdoms were all sick of the <hi>Evil,</hi> and knew not what to doe, nor whither to goe: Now the Lord in mercy hath brought home our King, to <hi>preserve</hi> Church and State <hi>alive:</hi> we
+<pb n="6" facs="tcp:168905:8"/> were not so much benighted before, by that sad Eclipse, Egyptian darkness covering the whole Land; as we are now enlightned <hi>by the Sun of our firmament,</hi> to guide us in truth, and our feet in the way of peace.</p>
+            <p>And indeed, the King, is <hi>filius Dei,</hi> not <hi>filius po<g ref="char:EOLhyphen"/>puli,</hi> (God forbid) Never father him upon the mul<g ref="char:EOLhyphen"/>titude. No, let God have the honour and praise. He is found, chosen, exalted, adopted, the Lord takes them all to himself: <hi>See yee him whom the Lord hath chosen.</hi>
+            </p>
+            <p>That have laid so long in the stuff (with modest <hi>Saul)</hi> and was loath to come forth; and lay hid (with <hi>Jehoash)</hi> in <hi>the house of God</hi> so many years: Let the Lord <hi>(at the Coronation day,</hi> every year) have the glory; and let our mouthes shew forth his praise, and keep it from <hi>one Generation to ano<g ref="char:EOLhyphen"/>ther.</hi>
+            </p>
+            <p>And sure I am, were we a people newly drop't from the clouds, and now to begin the settling of a frame of Government for our selves; what <hi>better can we sit under then Monarchy,</hi> that ancient <hi>founda<g ref="char:EOLhyphen"/>tion and bottom,</hi> which hath for so many Ages ren<g ref="char:EOLhyphen"/>dred us famous, and the flourishing'st people under the Sun?</p>
+            <p>Were we to ask counsel of all the Kings, Prin<g ref="char:EOLhyphen"/>ces in <hi>Europe,</hi> and <hi>Asia</hi> too, to choose one to Reign and Rule over <hi>England, Scotland</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land:</hi> who can we better choose then he, who hath been so long in the school of affliction, trained up from the rod to the scepter?</p>
+            <p>Who is fitter to be our King, <hi>then Charles the se<g ref="char:EOLhyphen"/>cond,</hi>
+               <pb n="7" facs="tcp:168905:8"/> who hath for many years together, wandred on the mountains of persecution, and hath learned so many experiences?</p>
+            <p>Who is fitter to wear the <hi>Crown</hi> then he, whose Right it is, both by the Law of God and man? What more glorious? What more honourable? What greater comfort and rejoycing can be given to any Kingdom, Nation or People, (after a thorow reformation; or deformation, which you will) <hi>Then to have a good King</hi> Josiah <hi>placed over us, who is e<g ref="char:EOLhyphen"/>minent in zeale, and Crowned with this commendati<g ref="char:EOLhyphen"/>on; And like him was there no King before him, that turned to the Lord with all his heart, and with all his soul, and with all his might,</hi> 2 Kings 23. 25.</p>
+            <p>
+               <hi>See yee him whom the Lord hath chosen? Look up<g ref="char:EOLhyphen"/>on him:</hi> Take notice of him: And that with ad<g ref="char:EOLhyphen"/>miration! That the Lord did so miraculously de<g ref="char:EOLhyphen"/>liver <hi>this your King,</hi> and <hi>his Anointed,</hi> from the den of Lyons.</p>
+            <p>See yee him, whose bloody persecutors were swifter then the Eagles, they pursued him, (like a Partridge upon the mountains) they laid wait for him, both upon Sea and Land, and yet <hi>the breath of our nostrils, the Anointed of the Lord was not taken in their Pits.</hi>
+            </p>
+            <p>
+               <hi>Good King!</hi> He heard and saw all, escaped the peril, but not the fright and fear, oftentimes worse then peril it self.</p>
+            <p>His enemies round about him, and yet no harm, He was sought after, &amp; seen, and no discovery. <hi>(Hic est potentia dei)</hi> here was the power, and here was the mercy of God, that he hath sav'd our King alive,
+<pb n="8" facs="tcp:168905:9"/> and brought him home in peace again; when our <hi>Goshen</hi> was turned into <hi>Bochim,</hi> our eyes dew'd with teares, <hi>for the loss of those glorious beams of Ma<g ref="char:EOLhyphen"/>jesty, which should exalt or dry them up.</hi>
+            </p>
+            <p>When our heart-strings were ready to break with grief, what should become of <hi>the Lords An<g ref="char:EOLhyphen"/>nointed:</hi> at last the <hi>Lord</hi> did look down, and be<g ref="char:EOLhyphen"/>hold from heaven; <hi>The Lord did hear him in the day of trouble, the name of the God of</hi> Jacob <hi>defended him,</hi> Psal. 20. 1.</p>
+            <p>Sure I am, if ever there were a Prince upon Earth that found this, <hi>salutem dei,</hi> the help of God, in saving him, and that wonderfully, <hi>he is that Prince:</hi> when he was ready to perish, came this <hi>salus dei,</hi> and saved him; when none of his Subjects durst say publickly, <hi>God save the King,</hi> yet the Lord in mercy did hear some in private, <hi>and was his Sa<g ref="char:EOLhyphen"/>viour.</hi>
+            </p>
+            <p>And this was as strange a deliverance, as that story which <hi>Herodotus</hi> reporteth, that at the taking of <hi>Sardis,</hi> when one ran at <hi>Cresus the King,</hi> to have slain him; that a little boy born dumbe, that never spake word in all his life; with the fright and ter<g ref="char:EOLhyphen"/>ror of the sight, his tongue loosed, and he brake forth, and said, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, &amp;c. <hi>O man destroy not the King,</hi> and so saved his life.</p>
+            <p>So our <hi>Cresus</hi> (the King) was as near death, if the Lord of Hosts had not been his convoy. Lord, let our tongues be loosed as the boyes was, not onely to say, <hi>God save the King;</hi> but to sing the praises of <hi>God,</hi> that he may have the honour of the day. To <hi>him,</hi> let us all with one voyce cry <hi>Hosanna, Lord
+<pb n="9" facs="tcp:168905:9"/> save, Lord prosper; Lord add dayes to his dayes, that his years may be as many ages.</hi>
+            </p>
+            <p>Againe, <hi>See yee him,</hi> who was banished into a strange Land, from one countrey to another, to sing the Lords song, whose Religion was opposite to his; who <hi>wav'd all temptations,</hi> (though with the hazzard of his life) And had rather live on the mountains of persecution, then be false to his God, Religion or Countrey, and see, how God hath now rewarded him? <hi>The stone which the Builders re<g ref="char:EOLhyphen"/>fused, is now become the Head-stone of the Corner,</hi> Psal. 118. 22.</p>
+            <p>
+               <hi>A King they sav'd, Tanquam speculum propitii Numinis,</hi> as a mirrour of the Lords favour and pro<g ref="char:EOLhyphen"/>tection, and that in the sight of his people.</p>
+            <p>Sure I am we must needs say, <hi>This is the Lords doing, and 'tis marvellous in our eyes.</hi>
+            </p>
+            <p>If ever therefore you defire the Lord to open your eyes, to see the <hi>wonderful</hi> works of God, <hi>This day, this year,</hi> you may doe it.</p>
+            <p>And therefore let me be your <hi>Samuel</hi> (this day) to put you in minde of the <hi>great mercy of God</hi> in pre<g ref="char:EOLhyphen"/>serving him <hi>to be our King;</hi>
+            </p>
+            <p>In these words, which I this day present unto you; And <hi>Samuel said unto all the people, See yee him whom the Lord hath chosen, that there is none like him among all the people? And all the people shouted and said, God save the King.</hi>
+            </p>
+            <p>Object. It may be some will object, with the children of <hi>Belial</hi> (But I hope there are none here) who said, How shall this <hi>Man</hi> save us? And they despised him, and <hi>brought</hi> him no presents, <hi>v.</hi> 27.</p>
+            <pb n="10" facs="tcp:168905:10"/>
+            <p>
+               <hi>Ans.</hi> To this I answer, our Laws which were broken shall be reestablished; our Religion, which for ma<g ref="char:EOLhyphen"/>ny years together hath been lost, and the glory of God which hath been taken from us, by those who for many years have caus'd our Harps to hang on the willows; <hi>And we who have sate down by the Rivers and w<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pt, to remember our poor destressed</hi> Zion, shall now <hi>serve our God</hi> in the beauty of holiness, and praise him again upon the <hi>Organ, and all sorts of mu<g ref="char:EOLhyphen"/>sical instruments,</hi> Psal. 150. 4.</p>
+            <p>Our Laws, our liberty, our estates, our pri<g ref="char:EOLhyphen"/>viledges, our religion, and what not? <hi>shall all be sav'd under this Royal Canopy of Monarchy.</hi>
+            </p>
+            <p>For when we had no King, call to minde what strange and unheard of violence, and out-rages, have our eyes (for many years) beheld committed by an Arbitrary power, still pretending a Reformation; and in stead of protection and defence to us <hi>(which was duely administred to us, in the dayes of our Mo<g ref="char:EOLhyphen"/>narchy)</hi> what awe, dread and terrour did these Ty<g ref="char:EOLhyphen"/>ranical usurpers keep three Kingdoms under, <hi>from the highest to the lowest, of all sorts and qualities?</hi> To preserve our selves now from all these, shall we not shout and say, <hi>God save the King?</hi>
+            </p>
+            <p>No Church and State can live so happily as <hi>under Monarchy:</hi> well therefore doth <hi>Cornelius Tac.</hi> say <hi>(Annal Libi.) Ea est conditio inperandi, ut non aliter Ratio constat, quam si uni reddatur; Non aliud discordantis patriae remedium est, quam ut ab uno re<g ref="char:EOLhyphen"/>geretur. Vt unum est corpus Resp. ita unius animo re<g ref="char:EOLhyphen"/>genda est.</hi> These words we have found true: such is the condition of ruling well; yea, the constituti<g ref="char:EOLhyphen"/>on
+<pb n="11" facs="tcp:168905:10"/> of <hi>England</hi> too; <hi>That no Government but this can subsist.</hi> And there is no other way to unite a divided Kingdom, but to have one that is <hi>the Law<g ref="char:EOLhyphen"/>ful Heire to reign and rule over us:</hi> Monarchy is the sole and onely Government ordained by God. <hi>By him Kings reign,</hi> Prov. 8. 15. And by him King<g ref="char:EOLhyphen"/>doms are planted, and needs it be the best, because it doth resemble the Government of Heaven, <hi>God him<g ref="char:EOLhyphen"/>self is King and Monarch.</hi>
+            </p>
+            <p>Kingly power (saith one) is the onely curb to Sa<g ref="char:EOLhyphen"/>criledge, Oppression, Murther, Perjury, &amp;c. Our Moderator to factions, our Sanctuary for remedies of all evils: It stops usurpation, (from which a<g ref="char:EOLhyphen"/>gain good Lord deliver us.)</p>
+            <p>It did administer true Justice, Equity, and Mercy, that the widow, or poor harmless Orphans were not oppressed, but Law was administred to them; <hi>Nemo laeditur nisia seipso.</hi>
+            </p>
+            <p>Such a Catholicon of welfare and happiness, our <hi>Kings</hi> power (of <hi>blessed</hi> memory) was to us whil'st he was himself, that in Church we were the happiest people under the Sun; and without too, we receiv<g ref="char:EOLhyphen"/>ed all the benefits of plenty, ease and quiet, that could be given to any of the Sons and Daughters of men.</p>
+            <p>But since, <hi>this blessed Government was destroyed,</hi> the lamentations of <hi>Jeremy</hi> were fallen upon us, <hi>Lam.</hi> 5. The disobeying of Princes: the dishonouring of Nobles, Priests and Judges: the making many widows and orphans, the voyce in <hi>Rama,</hi> of <hi>Rachel</hi> weeping (in every corner of our Land) for her children, cruelty upon cruelty, and all their whole
+<pb n="12" facs="tcp:168905:11"/> business was, to make Acts and Ordinances, to break Gods and the Kings commandement, to pull down the seed Royal, and exalt murtherers.</p>
+            <p>To let that pass, let us now look up to <hi>the mercy</hi> of God from heaven; at that after all these tempestous, stormy violences, wasting and consuming divisi<g ref="char:EOLhyphen"/>ons, dolesul and deplorable calamities, which have so fiercely raged amongst us; <hi>the Almighty</hi> hand of God, to a <hi>wonder,</hi> without shedding of blood, hath clos'd up all breaches, <hi>That</hi> we might enjoy the blessed and happy benefit of a well established and lasting peace.</p>
+            <p>
+               <hi>Hic est digitus Dei,</hi> This is the finger of God, and nothing else: <hi>See yee him whom the Lord heth cho<g ref="char:EOLhyphen"/>sen?</hi> So see as to look back to the judgements of God on the Land, that are past, <hi>Prov.</hi> 28. 2. For the Transgressions of the Land, many were the Princes thereof: And behold, the mercy of God on the Land now, <hi>who hath</hi> blessed the <hi>Land with a King who is the Son of Nobles,</hi> Eccles. 10. 17.</p>
+            <p>
+               <hi>Such</hi> a Son, who <hi>came from</hi> such a Father, <hi>(That Proto-Martyr</hi> of Kings) whom the <hi>world cannot parallel, who</hi> left such an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a living mo<g ref="char:EOLhyphen"/>nument of piety to his Posterity, infusing such prin<g ref="char:EOLhyphen"/>ciples of Religion, piety, charity into them: Sure I am, such a Son, is worth the looking after; And I hope <hi>all good</hi> Subjects will shout, and say, <hi>God save the King.</hi>
+            </p>
+            <div type="part">
+               <head>The Use.</head>
+               <p>Seeing 'tis a <hi>great</hi> mercy of God to a sinful Land, and great rejoycing to all true Christians (after so
+<pb n="13" facs="tcp:168905:11"/> much rebellion, murther and confusion) that the Lord is pleased <hi>to give us a King:</hi>
+               </p>
+               <p>In the first place, this may serve to reprove those, when the Lord in mercy hath given them a King, that will not submit to his Government: As those <hi>v.</hi> 27. who did much displease the Lord, and to re<g ref="char:EOLhyphen"/>quite him for his mercy, they gave him nothing but contumacy and rebellion, and therefore the Lord stiled them the sons of <hi>Belial,</hi> i. e. men most flagi<g ref="char:EOLhyphen"/>tious and desperately wicked.</p>
+               <p>And as there were sons of <hi>Belial</hi> then, so, I doubt me now, too many in <hi>England,</hi> who are heady (as the Apost. sayes) high minded, &amp; despise govern<g ref="char:EOLhyphen"/>ment, lovers of pleasure more then lovers of God: And in a Hypochondriacall fit will say, Shall <hi>Saul</hi> reign over us? as 'tis in the next chapter, <hi>v.</hi> 12.</p>
+               <p>Secondly, Those who doe dissemble a gladness, for fear of being noted, and yet doe sing with a sad heart.</p>
+               <p>Many a close Hypocrite may seem to rejoyce, many a counterfeit <hi>Shimei</hi> and <hi>Sheba</hi> may seem to rejoyce with <hi>David,</hi> and yet curse him in his heart, 2 <hi>Sam.</hi> 19. 22.</p>
+               <p>Thirdly, This may reprove those, who think they cannot rejoyce, but in a Tavern or in an Ale-house, who pour in cup after cup, till they have forgotten themselves, and <hi>God</hi> that made them.</p>
+               <p>But the Prophet <hi>Hosea</hi> will tell thee, such re<g ref="char:EOLhyphen"/>them joycing is evil before God: After he had re<g ref="char:EOLhyphen"/>proved of many sins, he tels them of this; <hi>In the day of our King the Princes have made him sick with bot<g ref="char:EOLhyphen"/>tles of Wine, Hos.</hi> 7. 5.</p>
+               <pb n="14" facs="tcp:168905:12"/>
+               <p>And the Prophet <hi>Malachi</hi> will tell thee, how an<g ref="char:EOLhyphen"/>gry the Lord is with belly-gods; those that rejoyce onely in filling their panch: <hi>Behold (saith the Lord)</hi> I will corrupt your seed, and spread dung upon your faces, even the dung of your solemn feasts, and one shall take you away with it, <hi>Mal.</hi> 2. 3.</p>
+               <p>To prevent these judgements, the blessed Apostle therefore gives us an excellent lesson: Whether therefore, you eat or drink, or whatsoever yee doe, <hi>doe all to the glory of God, 1 Cor.</hi> 10. 31.</p>
+               <p>This <hi>rejoycing is pleasing to God,</hi> and he that will please God must begin at <hi>Hosanna,</hi> at the <hi>Temple doore, there it must goe in,</hi> (as 'tis) <hi>Esay</hi> 56. 7. Even them will I bring to my holy mountaine, and make them joyful in my house of Prayer.</p>
+               <p>The stream of our joy must come from the spring head of Religion; with such rejoycing, with such sacrifices, the Lord is well pleased.</p>
+               <p>The second use is, Hath the Lord been merciful, (after this sad confusion) <hi>to give us a King?</hi>
+               </p>
+               <p>In the second place, here's a use for caution, and that to high and low, rich and poor, to beware of those sins (which) for many years have left us fa<g ref="char:EOLhyphen"/>therless.</p>
+               <p>First, To those who are <hi>Nobles</hi> and Gentry; How honourable soever you Courtiers be in your places, I must tell such, without piety and holiness, they are but <hi>Splendida peccata,</hi> glistring sins: Let them take heed, lest they make good that saying upon his Ma<g ref="char:EOLhyphen"/>jesties Court.</p>
+               <q>
+                  <l>Exeat Aulâ qui velit esse Pius.</l>
+               </q>
+               <p>Secondly, To you, who hear me this day, let me
+<pb n="15" facs="tcp:168905:12"/> tell you (as I am the Lords messenger) every sin in you, and that in the meanest subject, is a <hi>Thorne in the Crown:</hi> I need not preach it, I hope you are all sensible of it, <hi>Lam.</hi> 5. 16. The Crown is fallen from our head, wo unto us that we have sinned.</p>
+               <p>And call to minde, since that fatal day, how many woes (by reason of sin) have your eyes be<g ref="char:EOLhyphen"/>held.</p>
+               <p>Wo upon City, wo upon Countrey, wo upon Magistrate, wo upon Minister and People.</p>
+               <p>Alas (Beloved) what is it, that sin cannot doe? It can pull up Kingdoms, destroy Church, change Go<g ref="char:EOLhyphen"/>vernments, make Princes walk as servants upon earth, and servants ride on horse-back, <hi>Eccles.</hi> 10. 7.</p>
+               <p>This was that which <hi>made the King to mourn,</hi> the Prince cloathed with desolation, and the People of the Land troubled, <hi>Ezek.</hi> 7. 27.</p>
+               <p>Now (Beloved) the Lord <hi>(in a wonderful mercy)</hi> hath brought you to the haven of peace again, to see, and try, whether you will follow after <hi>Peace</hi> &amp; <hi>Holi<g ref="char:EOLhyphen"/>ness;</hi> If you do not, nor will not prize the Lords <hi>mer<g ref="char:EOLhyphen"/>cies,</hi> the Holy Ghost will tell you what your destiny is, without which no man shall see the Lord, <hi>Heb.</hi> 12. 14.</p>
+               <p>I must tell you, it is not enough for a man to say, I have <hi>been for</hi> the King; If thou art not a pious, and godly one, thou art rather an enemy <hi>to the King,</hi> then a friend.</p>
+               <p>He that saith, Let every soul be subject to the higher Powers, <hi>Because they</hi> are ordained of God, <hi>Rom.</hi> 13. 1. the same Apostle tels us, at the latter end of that
+<pb n="16" facs="tcp:168905:13"/> Chapter, that all Christians must walk honestly as in the day, not in rioting and drunkenness, not in chambering and wantonness, not in strife and envy<g ref="char:EOLhyphen"/>ing, But <hi>put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfill the lust there<g ref="char:EOLhyphen"/>of.</hi>
+               </p>
+               <p>Wherefore I say unto you, in the words of our Prophet <hi>Samuel, Onely fear the Lord, and serve him in truth with all your heart:</hi> For consider, how <hi>great things</hi> he hath done for you: but if ye shall still doe wickedly, yee shall be consumed, both yee, and <hi>your King, 1 Sam.</hi> 12. 24, 25.</p>
+               <p>That is, if you persist and continue in your rebel<g ref="char:EOLhyphen"/>lious courses <hi>against God:</hi> it is not <hi>your King</hi> that shall be able to save you; No, no, if ye doe wickedly and continue still in your sins, <hi>both yee and your King shall perish.</hi>
+               </p>
+               <p>I beseech all Christians to look back, and see the desolations, that sin hath made in the Land; Read over at your leisure, the last Chapter of the Lamen<g ref="char:EOLhyphen"/>tations, that chapter was an embleme of our times.</p>
+               <p>We are orphans and fatherless, our mothers are as widows, servants have ruled over us: We got our bread with the perill of our lives, because of the sword of the wilderness; Princes are hanged up by their hand: for this our heart is faint, for these things our eyes are dim. Here you see the sad lamentation of Zion; and the like (not long since) was heard and seen in <hi>England.</hi> Who would have thought to haveseen these things? The <hi>Kings</hi> of the Earth and all the Inhabitants of the world would not have believed, that the adversary could have
+<pb n="17" facs="tcp:168905:13"/> done this, <hi>For the sins of her Prophets, and the ini<g ref="char:EOLhyphen"/>quities of her Priests, that have shed the blood of the just in the midst of her,</hi> Lam. 4. 12, 13.</p>
+               <p>I beseech you, Let me be your humble remem<g ref="char:EOLhyphen"/>brancer: sin is of that Longitude, that it can reach from the Earth to Heaven, and pull down again the <hi>Lords</hi> fearful vengeance upon us: Sure I am, There is no calamity, imprisonment, captivity, that hath been so grievous, but sin and wickedness can bring about again; The Lord grant <hi>Moabs</hi> security and pride doe not settle us on our Lees, <hi>Because we are not carryed into captivity,</hi> Jer. 48. 11.</p>
+               <p>Thirdly, Caution to beware of those, who are troubled with an itch of innovation; rather doe no<g ref="char:EOLhyphen"/>thing, undoe all: who would be thought Angels, though it be for troubling the waters: who doe pre<g ref="char:EOLhyphen"/>tend a reformation, and think to build the walls of <hi>Zion,</hi> when the foundation is quite destroyed.</p>
+               <p>Rebellion, murther, perjury and sacriledge never went upon conscience and religion untill of late years; The <hi>Lord grant England</hi> may beware of such Schismatical Teachers, and their damnable Doctrin, of these Buccinators, Trumpeters of rebellion, who have (for many years) set three <hi>Kingdoms</hi> in a flame; <hi>Rebellion is the sin of wichcraft,</hi> and well they are put together, 1 <hi>Sam.</hi> 15. 23.</p>
+               <p>If you hearken to them, or come nearthem, they will inchant you, and (like Conjurers) raise such evil spirits in <hi>against God, and his Vicegerent;</hi> that 'tis not all the Orthodox Preaching can allay them.</p>
+               <p>To this purpose, I warn you (this day) <hi>as the Lord</hi> commanded <hi>Moses</hi> to warn the congregation; <hi>To
+<pb n="18" facs="tcp:168905:14"/> goe up from the Tabernacle of</hi> Corah, Dathan <hi>and</hi> A<g ref="char:EOLhyphen"/>biram, <hi>saying, Depart I pray you, from the Tents of these wicked men, and touch nothing of theirs, lest ye be consumed in all their sins,</hi> Num. 16. 24, 26.</p>
+               <p>This is an excellent Caution, <hi>from the Lords</hi> own mouth; And <hi>(I pray</hi> God) all may take warning from him; for this is the way for mercy and truth to meet together, that Righteousness and Peace may kiss each other, and that the Lateny may again be set up in our Church: That we may still pray, From privy conspiracy, false Doctrine and Heresie, <hi>Good Lord deliver us, Amen.</hi>
+               </p>
+               <p>Third Use, is for terrour: And that to all those who will not stoop, <hi>and yeild obedience to the King,</hi> whom the Lord hath set over us. Those who will not, let them in the name of God tremble: If <hi>Zimri</hi> (captain general) shall plot and rebell against his <hi>Lord</hi> and <hi>King,</hi> and think to sit in his Throne, <hi>The Lord will soon bring destruction upon him,</hi> 1 King. 16. 9, 18.</p>
+               <p>Though <hi>Athaliah</hi> destroyed <hi>all the seed Royal,</hi> that she might reign: And did (notwithstanding that cruel and fearful murther) enjoy the Palace six years, as <hi>if the</hi> Lord had conniv'd at that bloody Action:</p>
+               <p>At last, the Lord did make inquisition for blood, the Souldiers must be divided, the Captains fall off, and she must be destroyed by that Palace, wherein she took so must delight, and unto which she made way by so much blood, 2 <hi>Kings</hi> 11. If men will not bring Traytors to the bar of justice, the <hi>Lord</hi> will hold an assise against them and make them
+<pb n="19" facs="tcp:168905:14"/> hold up their hands as guilty persons. Heaven shall doe it, by lightning, <hi>Psal.</hi> 144. 6. The Earth shall doe it, by swallowing up <hi>Corah</hi> and his company, with their Houses, <hi>Numb.</hi> 16. 32. Their own friends shall doe it, as <hi>Joab,</hi> if they will not doe it, their beast shall, as <hi>Absaloms, 2. Sam.</hi> 18. 9, 14, 1. Or before justice shall be left undone, the Lord will cause themselves to be their own executioners (they shall hang themselves, as <hi>Achitophel) 2 Sam.</hi> 17. 23.</p>
+               <p>We need not look far for examples of Gods re<g ref="char:EOLhyphen"/>venging hand in this kinde, there are enough in our Land.</p>
+               <p>They are dead and gone, their names and memo<g ref="char:EOLhyphen"/>ry do stink in the nostrils of God and men, and so, <hi>Let thine, and the Kings enemies perish</hi> (O Lord)</p>
+               <p>Now consider this, yee that forget God, lest I tear you in pieces, and there be none to deliver, <hi>Psal.</hi> 50. 22.</p>
+               <p>Fourth Use, is for exhortation: seeing <hi>the Lord</hi> in a <hi>wonderful mercy</hi> (after this sad confusion) hath <hi>given us a King:</hi> Let us all be exhorted not to grow proud, and wanton, and turn the grace <hi>of our God</hi> into wantonness, or be unthankful (as the Israelites) <hi>Who forgot God their Saviour, which had done great things in</hi> Egypt, <hi>Psal.</hi> 106. 21.</p>
+               <p>Those that are so, I would have them reflect up<g ref="char:EOLhyphen"/>on their former afflictions, and remember them (as the holy Ghost doth advise them) <hi>Heb.</hi> 10. 32, 33. Call to remembrance the former dayes, in which ye endured a great fight of afflictions, partly whilst ye were made a gazing-stock, both by reproaches and afflictions.</p>
+               <pb n="20" facs="tcp:168905:15"/>
+               <p>Now to avoid these again, and that <hi>the glory of God</hi> might dwell in our Land, let us all, in the second place, be exhorted to be a <hi>holy people, Zealous of good works,</hi> serving the Lord: <hi>That our Sons may be as Plants grown up in their youth: That our Daughters may be as Corner-stones, polished after the similitude of a Palace: That our Garners may be full, affording all manner of store: That our sheep may bring forth thousands, and ten thousands in our streets: That our Oxen may be strong to labour, that there be no breaking in, nor going out, that there be no complain<g ref="char:EOLhyphen"/>ing in our streets: Happy is that people, that is in such a case; yea, happy is that people, whose God is the Lord,</hi> Psal. 144. 12, 13. &amp;c.</p>
+               <p>Thirdly, Let us all be exhorted to live now like Christans, to live in love, to lay aside all animosities, to be mercifull, as the <hi>Lord hath</hi> been mercifull to us. The <hi>King is</hi> mercifull, let us who are his sub<g ref="char:EOLhyphen"/>jects follow his steps, and the Apostles rule: <hi>En<g ref="char:EOLhyphen"/>deavouring to keep the unity of the spirit, in the bond of Peace,</hi> Eph. 4. 3.</p>
+               <p>
+                  <hi>Solomon</hi> (that wise King) saith, <hi>Mercy and Truth preserve the King, and his throne is upholden by mercy,</hi> Prov. 20. 28. What then? Must the King delight in nothing but to shew mercy, and pass by to execute justice? To this I answer. 1. The power and laws of our Land is put into the <hi>Kings</hi> hands, by the fundamentall laws of the Kingdom; to take off and to lay on when 'tis profitable and sea<g ref="char:EOLhyphen"/>sonable: Saul <hi>was mercifull to his subjects, though they did not deserve it,</hi> as 'tis in the next chapter, <hi>v. 13. There shall not a man be put to death this day, be<g ref="char:EOLhyphen"/>cause
+<pb n="21" facs="tcp:168905:15"/> God hath wrought great salvation in</hi> Israel.</p>
+               <p>In which speech, he sheweth his piety, in refusing to take private revenge, his clemency in remitting so foul a fault of Rebellion, which is a Princely vertue, then the which nothing more (saith one) ex<g ref="char:EOLhyphen"/>cept piety and justice, beseemeth and <hi>graceth a King.</hi> Here's a <hi>Precedent</hi> for mercy.</p>
+               <p>So then, the sword of justice, must be furbished with the oyle of mercy: Yet secondly, There are cases wherein severity ought to cast the scale. 'Tis the <hi>duty of Kings</hi> to execute justice and judgement, which <hi>is the</hi> life of the Law. <hi>He is not to bear the sword in vain, but as he is the Minister of God, so he is to execute wrath upon him that doth evil,</hi> Rom. 13. 4. The spirit appeared in cloven tongues of fire, as well as in the form of a Dove.</p>
+               <p>A King must not be more milde, then for his peoples good; <hi>Bonis nocet, qui malis parcit. Ed<g ref="char:EOLhyphen"/>ward</hi> the Confessor was held a bad Prince, not by do<g ref="char:EOLhyphen"/>ing but by enduring ill: and how shall he preserve himself, from the latter, if he keep not the power committed to him by the fundamentall Laws of the Kingdom?</p>
+               <p>It was written upon the Sword of <hi>Charles</hi> the great, <hi>Decem praeceptorum Custos Carolus, Charls</hi> is Lord keeper of the Decalogue: So the King must be Lord keeper of all the Militia (both upon Sea and Land) without which he is no King: every man will be a Pope in his own cause, and he will be no longer, <hi>(Charls</hi> the great.)</p>
+               <p>And as I gave you a Precedent for mercy: So now, a Precedent for justice too, and that, in <hi>Amaziah,
+<pb n="22" facs="tcp:168905:16"/> (A good King) who did that which was right in the sight of the Lord,</hi> 2 Kings 14. 5. And it came to pass as soon as the Kingdom was confirmed in his hand; that he slew his servants which had slain the <hi>King</hi> his Father: And the next verse will tell you, how far he was to extend justice, but the children of the murtherers he slew not.</p>
+               <p>So then, As justice is the vitall heat of Govern<g ref="char:EOLhyphen"/>ment; So <hi>mercy is</hi> the natural humour which doth qualifie and temper it, maketh it durable, and <hi>both are</hi> good, if they be rightly and duely used.</p>
+               <p>Fourthly, that we may be good Subjects for the future, and take off the sad proverb, that the King <hi>of England,</hi> is <hi>Rex Diabolorum;</hi> Let us now in the true fear of God, yeild obedience to him, active and pas<g ref="char:EOLhyphen"/>sive; as there were six steps to King <hi>Solomons</hi> Throne, 2 <hi>Chron.</hi> 9. 18. So there are six parts, which all Subjects are to act in <hi>Duty</hi> and <hi>Allegiance</hi> to the King, Fear, Honour, Obedience, Tribute, Defence, Prayer.</p>
+               <p>These be the six parts, and I <hi>Pray God,</hi> we his sub<g ref="char:EOLhyphen"/>jects may have <hi>Grace</hi> to act them: for <hi>salus Regis,</hi> is a fort Royal, when <hi>a King</hi> is saved, there be ten thousand salvation in one, 2 <hi>Sam.</hi> 18. 3.</p>
+               <p>The sword (saith one) which is carryed before him, commandeth fear, <hi>Christus Dominus,</hi> 'tis the Lords <hi>Anointed,</hi> touch him not, <hi>Prov. 24. 21. My Son, fear thou the Lord, and the King, and meddle not with them that are given to change;</hi> They are inseparable, and so is this duty, they are conjoyn'd in one: If thou can'st not fear Gods Vicegerent, thou wilt never God himself.</p>
+               <pb n="23" facs="tcp:168905:16"/>
+               <p>And they that will be so factious, (after all these sad distempers) so seditious as to ring the changes a<g ref="char:EOLhyphen"/>gain, 'tis no matter, if such be hanged up by the Ropes: for no Subject (under what pretence soever) is to take up the sword <hi>but the King; All they that take the Sword, shall perish with the Sword,</hi> Mat. 26. 52.</p>
+               <p>Second duty is Honour, <hi>Honour and Majesty hast thou laid upon him,</hi> Psal, 21. 5. The Lords <hi>Anoin<g ref="char:EOLhyphen"/>ted,</hi> He is most excellent, for there is none like a<g ref="char:EOLhyphen"/>mong all the people: well therefore doth the Holy-Ghost say, <hi>Honour the King,</hi> 1 Pet. 2. 17. And in<g ref="char:EOLhyphen"/>deed, He is the fountain-head of all honour, with<g ref="char:EOLhyphen"/>out him, all the Blood running in mens noble veines, will soon be dryed up.</p>
+               <p>Third duty is Obedience, Would you (who are Parents and Masters of Families) have your children and servants obedient, and observe the fifth com<g ref="char:EOLhyphen"/>mandement of God?</p>
+               <p>The same Duty is required of all Subjects to <hi>their</hi> King, for he is <hi>Pater Patriae,</hi> the father of us all: and in this respect, we owe more duty to our King, then to our natural Parents.</p>
+               <p>Saint <hi>Paul</hi> doth press this duty, and commandeth all Ministers to Preach this doctrine, <hi>Titus 3. 1. Put them in minde to be subject to Principalities and Pow<g ref="char:EOLhyphen"/>ers, to obey Magistrates, to be ready to every good work.</hi> And Saint <hi>Peter</hi> doth Preach the same do<g ref="char:EOLhyphen"/>ctrine, and goes a little further, that we should not onely give obedience to Kings, but to all those sent by them, 1 <hi>Pet.</hi> 2. 13, 14.</p>
+               <p>Though the Ordinance be mans, yet the institu<g ref="char:EOLhyphen"/>tion
+<pb n="24" facs="tcp:168905:17"/> is of God, the primary Authour. <hi>A deo sane est, sive jubente, sive sinente,</hi> of God it is surely, ei<g ref="char:EOLhyphen"/>ther so commanding, or so suffering it to be. Let them then, to the <hi>Honour</hi> of God, and the credit of our Land, at last, have <hi>Active</hi> and <hi>Passive</hi> obedience, then we need not fear any more disorder, rebellion and confusion who. Was he, Saint <hi>Paul</hi> commanded obedience to, <hi>Rom.</hi> 13. 1. Was it not to bloody <hi>Nero,</hi> (that tyrant) who ripp'd up his mothers belly, to see where he lay, and afterwards beheaded <hi>Paul</hi> himself at <hi>Rome?</hi>
+               </p>
+               <p>Who was he that <hi>David</hi> commanded obedience to; that they should not murther? Was it not this <hi>Saul</hi> (who fell from the good spirit to the bad) and brea<g ref="char:EOLhyphen"/>thed out slaughter against the Church of God, yet (saith <hi>David)</hi> who was to have the Crown, Touch him not, 'tis the Lords <hi>Anointed, 1 Sam.</hi> 26. 9.</p>
+               <p>Now, if the good word of God do command obe<g ref="char:EOLhyphen"/>dience to heathen Kings, oh much more to Christi<g ref="char:EOLhyphen"/>an? If <hi>Davids</hi> heart did smite him for cutting off but a peace of <hi>Sauls</hi> garment; oh much more his Head. I counsell thee therefore, to keep the Kings commandements, and that in regard of the Oath of God, <hi>Eccles.</hi> 8. 2.</p>
+               <p>Fourth duty of subjects to <hi>their King</hi> is Tribute.</p>
+               <p>If the King (by his power) doth preserve Church and State, are we not bound in conscience to pre<g ref="char:EOLhyphen"/>serve him? If the Earth, which receives moisture from the sky, repayeth it back again in vapours and exhalations: If the Rocks and Stones, which receive a sound from the Air, (before it be fully given) re<g ref="char:EOLhyphen"/>turn it by an Eccho: Shall we Christians (with
+<pb n="25" facs="tcp:168905:17"/> self-love, and ingratitude return nothing back a<g ref="char:EOLhyphen"/>gain? God forbid.</p>
+               <p>Ingratitude was one of the main sins of this Land, which deprived us of the Lords blessings: For this cause let us pay tribute: <hi>Render therefore to all their dues, Tribute to whom Tribute is due, Custome to whom Custome,</hi> Rom. 13. 7. And this most whole<g ref="char:EOLhyphen"/>some Doctrine is made good by our blessed Saviour in three Evangelists, Matth. 22. 21. <hi>Render unto</hi> Ce<g ref="char:EOLhyphen"/>sar <hi>the things that are</hi> Cesars, <hi>and unto God the things that are Gods.</hi> And Saint <hi>Mark</hi> 12. 17. there are the same words. So Saint <hi>Luke, 20. 25. Render to</hi> Cesar <hi>the things that are</hi> Cesars, <hi>and unto God, &amp;c.</hi>
+               </p>
+               <p>Not give, but render: As who should say, ye give him, but what belongs to him, you doe him but right, to helpe <hi>Cesar</hi> to his own, and that which he may justly require of you, <hi>In Reddendo hostimentum patrocini<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> &amp; defensionis,</hi> in lieu of his care towards you, and unto God, &amp;c. The Article is twice re<g ref="char:EOLhyphen"/>peated, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. He speaks of God twice, to shew, that our special care should be to give <hi>God</hi> his due. And he that will take from <hi>Cesar</hi> and from the Church, and so seem charitable, to give the reve<g ref="char:EOLhyphen"/>nues to another, <hi>Non est tributum Dei, sed servitium diaboli;</hi> It is not a paying of Tribute to <hi>God,</hi> but a do<g ref="char:EOLhyphen"/>ing service to the Devil. There be three things, that belong to a true Convert, and sound Repen<g ref="char:EOLhyphen"/>tance, without which, 'tis hard for a man to be sav'd, <hi>Confession, Contrition, Restitution.</hi>
+               </p>
+               <p>
+                  <hi>Hic est durus sermo.</hi> Oh then, where ever our <hi>Achans</hi> and <hi>Ananiases</hi> be, let them for their souls sake, and their poor Posterity (with all speed) make
+<pb n="26" facs="tcp:168905:18"/> Restitution to Crown and Miter, lest their ill gotten goods prove <hi>Anathema</hi> to them, (as the wedge of gold to <hi>Achan,</hi> or the coale from the Altar to the Ea<g ref="char:EOLhyphen"/>gles nest.) <hi>Henry</hi> the seventh in his last Will and Testament, commanded Restitution to be made of all such moneys, as had been unjustly levyed by his Officers.</p>
+               <p>Nay, The <hi>Turk,</hi> when <hi>Perrhus</hi> his Counsellour perswaded him to bestow the wealth he had taken from the Perfian Merchants upon some Hospital, to relieve the poor: The dying <hi>Turk</hi> commanded Re<g ref="char:EOLhyphen"/>stitution to be made to the owners: which was done, to the great shame of many Christians, who minde nothing else. <hi>Turk Hist. fol.</hi> 567.</p>
+               <p>But let me tell such, who under pretence of long Prayers, doe creep in and devour widows houses; if they have any desire to have <hi>Zacheus</hi> salvation come to their house, they must first make Restitution with <hi>Zacheus</hi> (if not four-fold, yet) as much as in them lyes, <hi>Luke</hi> 19. 8. If these men have any hope to see the face <hi>of God,</hi> at his great <hi>Tribunal,</hi> and to receive a Benediction from him; <hi>They must first render to Cesar the things that are Cesars, and to God, &amp;c.</hi>
+               </p>
+               <p>Bloody <hi>Cromwel</hi> (that man of sin, the worst of tyrants) seeing so much distraction in the State, schisme and faction in the Church, and he knew not what to doe; sent to Doctor <hi>Brounring (Bishop of Exeter)</hi> to know of him what he should doe: the wise and Christian Bishop made this answer, the best advise I can give you is, <hi>Render to Cesar the things that be Cesars, &amp;c.</hi> For the present made no an<g ref="char:EOLhyphen"/>swer,
+<pb n="27" facs="tcp:168905:18"/> neither for the future made any Restitution, but would rather be another <hi>Alexander</hi> the sixth, who (to obtaine a Popedom) gave his soul to the Devil.</p>
+               <p>If to rob a private man be theft, and the Law doe require death; what a great sin is it to rob thy <hi>Prince,</hi> the <hi>Royal Treasure,</hi> and <hi>God</hi> himself, <hi>Mal. 3. 8. 9. Whoso robbeth his father or his mother, and saith, it is no transgression, the same is acompanion of a de<g ref="char:EOLhyphen"/>stroyer,</hi> Pro. 28. 24. Oh much more thy <hi>Prince,</hi> who is, <hi>Pater Patriae.</hi>
+               </p>
+               <p>And that we may pay tribute to this our <hi>King,</hi> without murmuring, I shall give you example out of the word of God, in the like kinde, 2 <hi>Sam. 20. 24. David</hi> (that Prophetical King) the pattern of devo<g ref="char:EOLhyphen"/>tion, over the tribute did set <hi>Adoram.</hi>
+               </p>
+               <p>
+                  <hi>Solomon</hi> the Oracle of God (that wise King) o<g ref="char:EOLhyphen"/>ver the tribute did set <hi>Adoniram, 1 Kings</hi> 4. 6. Nay you may read how the people did morgage their Lands, Vineyards, borrowed money for the Kings tribute, <hi>Neh.</hi> 5. 4.</p>
+               <p>As for my self, I say (as <hi>Mephibosheth</hi> said unto the King) <hi>Let him take all, forasmuch as my Lord the King is come again in Peace unto his own House,</hi> 2 Sam. 19. 30.</p>
+               <p>Fifth duty of Subjects to their King, is Defence; If you mean to be defended against oppression, ra<g ref="char:EOLhyphen"/>pine, sacriledge, &amp;c. See, that you defend your <hi>Soveraign</hi> with your lives and fortunes, from all re<g ref="char:EOLhyphen"/>bellion, and privy conspiracy. If you know any taking counsel with his servants against him: doe you with <hi>Elisha</hi> make it known to the King, 2 <hi>Kings</hi>
+                  <pb n="28" facs="tcp:168905:19"/> 6. 12. He is worth ten thousand of us, (his Sub<g ref="char:EOLhyphen"/>jects) being the breath of our nostrils: without him, Church and State is undone.</p>
+               <p>Oh then! If any <hi>Bigthan, Teresh,</hi> or <hi>Cromwel,</hi> seek to lay hands on the Lords Anointed, doe you presently (with <hi>Mordecai</hi> and <hi>Esther)</hi> certifie the King thereof, <hi>Est.</hi> 21. 22.</p>
+               <p>Sixth and last duty of Subjects to their King is <hi>Prayer:</hi> And this (saith one) is not the least, but the greatest of our Duty which we owe to the King. Doe we desire (after these sad distracted times) to live in peace, in godliness, and honesty?</p>
+               <p>Then hear what the Apostle will tell thee, 1 <hi>Tim.</hi> 2. 1, 2. We are to pray one for another, but especi<g ref="char:EOLhyphen"/>ally for <hi>Kings.</hi>
+               </p>
+               <p>And that in respect of the great cares they labour under: for there be Thorns in the Crown as well as Diamonds.</p>
+               <p>And in respect of perils, whereto they be sub<g ref="char:EOLhyphen"/>ject.</p>
+               <p>And in respect of the abundant good which de<g ref="char:EOLhyphen"/>scendeth from them, to the whole Church and State.</p>
+               <p>Pray for him, in respect of your selves, and in re<g ref="char:EOLhyphen"/>spect of <hi>God:</hi> in respect of your selves, that you may lead a quiet and peaceable life in all godliness and honesty.</p>
+               <p>A quiet life, that we may have no insurrections, rebellions at home.</p>
+               <p>A peaceable life, that we have no invasion from abroad.</p>
+               <p>In all godliness, that it may be said of <hi>England,</hi> (as <hi>Jacob</hi> said of <hi>Bethel) Surely the Lord is in this place:
+<pb n="29" facs="tcp:168905:19"/> This is none other but the house of God, and this is the gate of Heaven,</hi> Gen. 28. 16, 17.</p>
+               <p>And in all honesty too, that the name of our Lord be not blasphemed by our Sectaries, &amp;c.</p>
+               <p>Now, that all these things may be effected, and that the glory of God might shine in our Land; I say, to you, once more in the words of my Text; <hi>See yee him, whom the Lord hath chosen, that there is none like him among all the People? and therefore, shout and say,</hi> and let this be your Prayer, <hi>God save the King.</hi>
+               </p>
+               <p>And so much for the six duties, which all Subjects are to act to their King: Fear, Honour, Obedience, Tribute, Defence, and Prayer.</p>
+               <p>Fifthly, Seeing the <hi>great mercy of God,</hi> to this sinful Land, after so much confusion, the Lord is pleased to give us <hi>a King,</hi>
+               </p>
+               <p>In the fifth place, let us all be exhorted to be thank<g ref="char:EOLhyphen"/>ful, as to look up to the <hi>wonderful mercy of God.</hi> Psal. 85. 1. <hi>Lord</hi> (saith the Psalmist) <hi>thou hast been favour<g ref="char:EOLhyphen"/>able unto thy Land; Thou hast brought back the Capti<g ref="char:EOLhyphen"/>vity of</hi> Jacob. And that we may not grow wanton with his <hi>mercies,</hi> but have the continuance of them, tels us in the 8. and 9. v. That we must not turn again to folly: <hi>Surely his Salvation is nigh them that fear him, that glory may dwell in our Land.</hi>
+               </p>
+               <p>Last of all, A use of thankful exaltation. The greater our deliverance, and <hi>Gods mercy</hi> towards us, the more the Lord is stil to be <hi>magnified</hi> by us al; Ps. 118. 15, &amp;c. <hi>The voyce of rejoycing &amp; salvation is in the Tabernacles of the Righteous. The right hand of the Lord doth vali<g ref="char:EOLhyphen"/>antly: The right hand of the Lord is exalted.</hi> But yet that must not serve the turn, to rejoyce in their dwel<g ref="char:EOLhyphen"/>lings; no ver. 19. <hi>Open to me the gates of Righteousness,</hi>
+                  <pb n="30" facs="tcp:168905:20"/> that is the Church doors, (his house could not hold him) to see the <hi>wonderful mercy of God,</hi> Gods house must be the house of praise, thither will I goe, and there in the great congregation give <hi>thanks unto</hi> the Lord.</p>
+               <p>So in another place, Psal. 96. 9, 10, <hi>&amp;c. O worship the Lord in the Beauty of holiness, say among the Heathen, the Lord reigneth, he shall judge the people righteously:</hi> Let the heavens rejoyce, and let the earth be glad: Let the sea roar, and the fulness thereof: let the field be joy<g ref="char:EOLhyphen"/>ful, and all that is therein: Then shall the trees of the wood rejoyce before the Lord; for he cometh, for he cometh to judge the earth, he shall judge the world with righteousness, and the people with his truth.</p>
+               <p>Again, Let us not onely rejoyce in our Preaching, but in our singing too; not with voyces alone in Gods house, but with musical instruments, such as the sowers of discord hath left us, the instruments of the Steeple, Bels and all, that so it may be <hi>Hosanna in Altissimis,</hi> in the very highest key we have.</p>
+               <p>First, joy, <hi>Rege incolumi Gaudendum,</hi> joy for the <hi>Kings</hi> safety, that he is return'd from his Captivity, and that in peace without shedding of blood: Sure I am, the mercy of God considered, our mouths must needs be filled with laughter, and our tongues with singing, for the <hi>great things</hi> the <hi>Lord</hi> hath done for <hi>England,</hi> Psal. 126. First,</p>
+               <p>
+                  <hi>The King shall rejoyce in thy strength (O Lord) and in thy salvation how greatly, shall he rejoyce; Thou hast given him his hearts desire, and hast not withholden the request of his lips; Thou settest a Crown of pure gold on his head,</hi> Psal. 21. 1, 2, 3.</p>
+               <p>Secondly, We who are his subjects, we wil rejoyce in thy salvation, and in the name <hi>of our</hi> God we will set up
+<pb n="31" facs="tcp:168905:20"/> our Banners; Now know I, that the Lord saveth his An<g ref="char:EOLhyphen"/>nointed; he hath heard him from his holy heaven, with the saving strength of his right hand: Some trust in Cha<g ref="char:EOLhyphen"/>riots, and some in Horses: But we will remember the <hi>name of the Lord our God:</hi> they are brought down and fallen, but we are risen, and stand upright: Save Lord, let the King hear us, when we call, <hi>Psal.</hi> 20. 5, 6, &amp;c.</p>
+               <p>Thirdly, That it may be the better done, let both <hi>Prince</hi> and <hi>People</hi> joyn in one heart and voyce, for all good sub<g ref="char:EOLhyphen"/>jects have a part in the King, 2 <hi>Sam.</hi> 19. 43.</p>
+               <p>Therefore, Praise ye the Lord, praise ye the Lord from the Heavens, praise him in the highest, <hi>Ps.</hi> 148. 1. And the 11. &amp; 12. v. will tell thee who the persons are; Kings <hi>of the</hi> earth, and all people: <hi>Princes</hi> and all judges of the earth, both young men and maidens, old men and children, let them praise the name of the Lord, for his name alone is excellent; his <hi>Glory</hi> is above the earth and heavens.</p>
+               <p>Fourthly, As the <hi>Lords mercies</hi> are continual, so let our praises be, as long as life lasteth; Oh, let us never forget to commemorate the Lords blessings, which he hath done to the whole Land! <hi>Psal. 146. 1, 2. Praise the Lord (O my soul) While I live will I praise the Lord, I will sing praises unto my God, while I have any being.</hi>
+               </p>
+               <p>Onely this (I beseech you) let not the Lords mercies make you proud and wanton, his benefits unthankful, his peace secure, and all his blessings serve us as weapons to rebell against him.</p>
+               <p>If we doe, I must tell you, the <hi>Lord</hi> will soon look down from heaven, and visit for these things.</p>
+               <p>In a word, If our Prophet <hi>Samuel</hi> caus'd all the Tribes of <hi>Israel</hi> to draw near to see the Lords <hi>Anointed,</hi> and the Prophets of the Lord came with a <hi>Psaltery,</hi> and a <hi>Tabret,</hi> and a <hi>Pipe,</hi> and a <hi>Harp,</hi> to praise the Lord for their King,
+<pb n="32" facs="tcp:168905:21"/>
+                  <hi>v.</hi> 5. If <hi>David</hi> did appoint a psalm or song for praise and thanksgiving, for the <hi>mercies of God</hi> towards them, 1 <hi>Chro.</hi> 16 7. If <hi>Moses</hi> and <hi>Israel</hi> had cause to compile a song for their strange deliverance, and the overthrow of their ene<g ref="char:EOLhyphen"/>mies in the Sea, <hi>Exod.</hi> 15. 1. If the good women came with <hi>Timbrels</hi> and other instruments of musick, singing and dancing, to meet <hi>King Saul,</hi> praising God for saving <hi>Israel</hi> that day, 1 <hi>Sam.</hi> 18. If that day were a day of joy and gladness, and rejoycing, when <hi>Jehojada</hi> commanded the Princes and all the people of the land to rejoyce, blow<g ref="char:EOLhyphen"/>ing the trumpets, to see the <hi>Kings Son Crowned and made King,</hi> clapping their hands, saying, <hi>God save the King, 2 King.</hi> 11. 12. The same cause have we, to sing out and declare abroad, and rejoyce (both <hi>in Gods</hi> house and in our own) for <hi>the great things</hi> the Lord hath done for <hi>England.</hi> When we were a <hi>Chaos,</hi> a lump of confusion, <hi>A celdama,</hi> a field of blood. When we heard a voyce of trembling, of fear and not of peace: Now, they shall serve the Lord their God, and <hi>David their King,</hi> whom I will raise up unto them, <hi>Jer.</hi> 30. 5, 9. These mercies of our gracious God considered, we must needs break out (with <hi>David)</hi> and say, <hi>Blessed be the Lord God, the God of</hi> Israel, <hi>which onely doth wondrous things: And blessed be his glorious name for ever. And let the whole earth be filled with his glory, Amen and Amen, Psal.</hi> 72. the two last verses.</p>
+               <p>And to consider his <hi>gratious</hi> promise, which thanks be to our God, is made good this day, <hi>Psal.</hi> 132. 16, 17, &amp;c. <hi>I will cloath her Priests with Salvation, and her Saints shall shout aloud for joy. I will make the horne of</hi> David <hi>to bud, I have ordain'd a lamp for mine Anointed: His enemies will I cloath with shame;</hi> But upon the <hi>Head of King Charls</hi> shall his Crown flourish; And I hope you will all joyn with me, and say, <hi>God save the King,</hi> Amen.</p>
+               <closer>
+                  <hi>Gloria in Excelsis Deo.</hi> Amen.</closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
